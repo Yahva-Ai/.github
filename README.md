@@ -33,7 +33,7 @@ We love connecting with fellow innovators! Feel free to reach out:
 
 ## License
 
-This organization’s projects are licensed under the [MIT License](LICENSE). See the LICENSE file in each repository for details.
+This organization’s projects are licensed under the [Apache License 2.0](LICENSE). See the LICENSE file in each repository for details.
 
 ---
 
