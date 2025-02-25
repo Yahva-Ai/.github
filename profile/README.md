@@ -1,6 +1,6 @@
 # Welcome to Yahva Ai
 
-Welcome to the official GitHub organization for **Yahvai AI**! We are dedicated to building innovative AI-powered solutions that redefine how technology interacts with everyday challenges. Our focus spans a variety of cutting-edge projects including lawgpt applications, AI dating apps, smart traffic management systems, and more—each leveraging breakthrough agentic AI to transform industries.
+Welcome to the official GitHub organization for **Yahvai AI**! We are dedicated to building innovative AI-powered solutions that redefine how technology interacts with everyday challenges. Our focus spans a variety of cutting-edge projects including lawgpt applications, AI dating apps, smart traffic management systems, and more each leveraging breakthrough agentic AI to transform industries.
 
 ## Our Mission
 
